@@ -4,6 +4,20 @@
 
 Construyo sistemas de produccion con Python, TypeScript y Claude Code. Publico patterns reales en espanol para la comunidad dev LATAM.
 
+*I build production systems with Python, TypeScript and Claude Code. I publish real-world patterns in Spanish for the LATAM dev community.*
+
+---
+
+### Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelardodiaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abelardodiaz&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
 ---
 
 ### Stack
@@ -16,13 +30,13 @@ Construyo sistemas de produccion con Python, TypeScript y Claude Code. Publico p
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-### En que trabajo
+### En que trabajo / What I work on
 
-- Patterns de agentes IA con guardrails y sub-agentes
-- Integraciones multi-proveedor IA (Claude, GPT, Gemini, DeepSeek)
-- WhatsApp Business API + webhooks en produccion
-- Shopify para el mercado mexicano (facturacion, envios, pagos locales)
-- Arquitectura limpia con FastAPI y Django
+- Patterns de agentes IA con guardrails y sub-agentes / AI agent patterns with guardrails and sub-agents
+- Integraciones multi-proveedor IA (Claude, GPT, Gemini, DeepSeek) / Multi-provider AI integrations
+- WhatsApp Business API + webhooks en produccion / WhatsApp Business API + production webhooks
+- Shopify para el mercado mexicano (facturacion, envios, pagos locales) / Shopify for the Mexican market
+- Arquitectura limpia con FastAPI y Django / Clean architecture with FastAPI and Django
 
 ### Links
 
@@ -33,3 +47,5 @@ Construyo sistemas de produccion con Python, TypeScript y Claude Code. Publico p
 ---
 
 *Patterns de produccion real, no tutoriales. Codigo que esta corriendo, no teoria.*
+
+*Real production patterns, not tutorials. Code that's running, not theory.*
